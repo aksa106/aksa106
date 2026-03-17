@@ -1,15 +1,17 @@
-## Hi there 👋
+
 
 # Hi, I'm Aksa 👋
 
-📊 Data Analytics Student | Python | SQL | Excel | Statistics  
-🎯 Focus: Data Analyst Internship  
+📊 Data Science Student @IIT Madras | Data Analysis | Python | SQL | Excel | Statistics  
 📍 India  
 
 ---
 
 ## 🚀 About Me
-I’m a data analytics student focused on turning raw data into meaningful insights.
+I am currently studying Data Science at IIT Madras, where I am building my understanding of how data can be used to analyze problems and support better decisions.
+
+Right now, I am focused on learning the fundamentals of data analysis, statistics, and machine learning, and developing the habit of thinking about problems in a structured and analytical way.
+
 
 Currently learning:
 - Python for Data Analysis
@@ -29,16 +31,14 @@ Currently learning:
 
 ## 🛠 Tech Stack
 - Python (Pandas, NumPy)
-- SQL
-- Excel
+- SQL (Microsoft SQL server)
+- Microsoft Excel
 - Matplotlib / Seaborn
 
 ---
 
-## 📂 Featured Projects
-🔹 Coming soon...
+
 
 ---
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aksa106&show_icons=true)
+
