@@ -1,6 +1,6 @@
 # Hi, I'm Aksa 🌿
 
-## Data Science Student
+## Data Science and Programming @IIT Madras
 📍 India  
 
 ---
@@ -16,14 +16,14 @@
 
 ---
 
-### 🌱 Interests
+### Interests
 - 🔍 Exploring datasets  
 - 📈 Understanding patterns  
 - 🧠 Thinking analytically  
 
 ---
 
-### ⚙️ Tech
+### Tech
 - 🐍 Python  
 - 🧩 SQL  
 - 📊 Excel  
