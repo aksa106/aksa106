@@ -1,16 +1,44 @@
 ## Hi there 👋
 
-<!--
-**aksa106/aksa106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Aksa 👋
 
-Here are some ideas to get you started:
+📊 Data Analytics Student | Python | SQL | Excel | Statistics  
+🎯 Focus: Data Analyst Internship  
+📍 India  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+I’m a data analytics student focused on turning raw data into meaningful insights.
+
+Currently learning:
+- Python for Data Analysis
+- SQL & Databases
+- Statistics for decision making
+- Data Visualization
+
+---
+
+## 🧠 What I’m Into
+- Exploratory Data Analysis (EDA)
+- Business data insights
+- Dashboard building
+- Real-world datasets
+
+---
+
+## 🛠 Tech Stack
+- Python (Pandas, NumPy)
+- SQL
+- Excel
+- Matplotlib / Seaborn
+
+---
+
+## 📂 Featured Projects
+🔹 Coming soon...
+
+---
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aksa106&show_icons=true)
