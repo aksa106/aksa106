@@ -8,7 +8,7 @@
 ## About Me
 ### I’m learning how to work with data and understand how it can be used to analyze problems.
 
-### Currently exploring:
+## Currently exploring:
 - 🐍 Python  
 - 🧩 SQL  
 - 📐 Statistics  
@@ -16,14 +16,14 @@
 
 ---
 
-### Interests
+## Interests
 - 🔍 Exploring datasets  
 - 📈 Understanding patterns  
 - 🧠 Thinking analytically  
 
 ---
 
-### Tech
+## Tech
 - 🐍 Python  
 - 🧩 SQL  
 - 📊 Excel  
