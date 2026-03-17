@@ -5,7 +5,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 ### I’m learning how to work with data and understand how it can be used to analyze problems.
 
 ### Currently exploring:
