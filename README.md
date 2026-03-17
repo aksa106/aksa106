@@ -1,42 +1,30 @@
-<h1 align="center">Hi, I'm Aksa 🌿</h1>
+# Hi, I'm Aksa 🌿
 
-<p align="center">
-📊 Data Science Student <br>
-📍 India
-</p>
+## Data Science Student
+📍 India  
 
 ---
 
-<h2 align="center">About Me 🧠</h2>
+## 🧠 About Me
+### I’m learning how to work with data and understand how it can be used to analyze problems.
 
-<p align="center">
-I’m learning how to work with data and understand how it can be used to analyze problems.
-</p>
-
-<p align="center">
-Currently exploring:<br>
-🐍 Python <br>
-🧩 SQL <br>
-📐 Statistics <br>
-📊 Data Analysis
-</p>
+### Currently exploring:
+- 🐍 Python  
+- 🧩 SQL  
+- 📐 Statistics  
+- 📊 Data Analysis  
 
 ---
 
-<h2 align="center">Interests 🌱</h2>
-
-<p align="center">
-🔍 Exploring datasets <br>
-📈 Understanding patterns <br>
-🧠 Thinking analytically
-</p>
+### 🌱 Interests
+- 🔍 Exploring datasets  
+- 📈 Understanding patterns  
+- 🧠 Thinking analytically  
 
 ---
 
-<h2 align="center">Tech ⚙️</h2>
-
-<p align="center">
-🐍 Python &nbsp;&nbsp; | &nbsp;&nbsp; 🧩 SQL &nbsp;&nbsp; | &nbsp;&nbsp; 📊 Excel
-</p>
-
+### ⚙️ Tech
+- 🐍 Python  
+- 🧩 SQL  
+- 📊 Excel  
 
